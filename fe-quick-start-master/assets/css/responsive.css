@@ -1,0 +1,12 @@
+/*******************************
+	All Responsive Code
+*******************************/
+
+@media(max width:991px){
+
+button.navbar-toggler .collapsed i{background: black;color: white;padding: 7px 15px;float: right;}
+
+
+
+}
+  .main-menu .navbar-nav {background: black;width:100%;}
